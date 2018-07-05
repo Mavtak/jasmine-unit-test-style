@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mavtak/jasmine-unit-test-style/issues"
   },
-  "homepage": "https://github.com/mavtak/jasmine-unit-test-style#readme"
+  "homepage": "https://github.com/mavtak/jasmine-unit-test-style#readme",
+  "devDependencies": {
+    "karma": "^2.0.4"
+  }
 }
