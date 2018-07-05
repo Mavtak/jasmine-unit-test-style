@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-unit-test-style",
+  "version": "1.0.0",
+  "description": "example-driven style guide for unit testing basic JavaScript code with Jasmine.  expects a base knowledge of the topic, offering a refining of ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mavtak/jasmine-unit-test-style.git"
+  },
+  "author": "David McGrath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mavtak/jasmine-unit-test-style/issues"
+  },
+  "homepage": "https://github.com/mavtak/jasmine-unit-test-style#readme"
+}
