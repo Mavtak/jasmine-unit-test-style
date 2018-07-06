@@ -28,5 +28,8 @@
     "karma-webpack": "^3.0.0",
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
   }
 }
