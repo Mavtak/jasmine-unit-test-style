@@ -9,6 +9,10 @@ module.exports = {
     filename: 'index.js',
     path: path.resolve(__dirname, 'dist'),
   },
+  mode: 'development',
+  performance: {
+    hints: false,
+  },
   module: {
     rules: [
       {
