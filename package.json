@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/mavtak/jasmine-unit-test-style#readme",
   "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
     "inject-loader": "^4.0.1",
     "jasmine-core": "^3.1.0",
     "karma": "^2.0.4",
