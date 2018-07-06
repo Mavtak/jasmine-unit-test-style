@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mavtak/jasmine-unit-test-style#readme",
   "devDependencies": {
+    "inject-loader": "^4.0.1",
     "jasmine-core": "^3.1.0",
     "karma": "^2.0.4",
     "karma-jasmine": "^1.1.2",
