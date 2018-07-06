@@ -4,7 +4,10 @@
   "description": "example-driven style guide for unit testing basic JavaScript code with Jasmine.  expects a base knowledge of the topic, offering a refining of ideas",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "build-watch": "webpack --watch",
+    "test": "karma start --single-run",
+    "test-watch": "karma start"
   },
   "repository": {
     "type": "git",
